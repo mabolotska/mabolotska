@@ -1,6 +1,6 @@
 ### Welcome! 🪄
 
-_I'm Maryna, open to opportunities as a Junior iOS Developer_
+_I'm Maryna, open to opportunities as an iOS Developer_
 
 _Technologies I use_ 👩‍💻 
 
